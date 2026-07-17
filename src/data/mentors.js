@@ -1,0 +1,62 @@
+export const initialMentors = [
+  {
+    id: "mentor-1",
+    name: "Sahithi Reddy",
+    jobTitle: "Senior Director of Engineering",
+    industry: "Technology",
+    experience: "15 years",
+    skills: ["React", "System Design", "Leadership", "Career Switch", "Software Engineering"],
+    rating: 4.9,
+    reviewsCount: 34,
+    availability: ["Mondays 2:00 PM - 4:00 PM EST", "Thursdays 10:00 AM - 12:00 PM EST"],
+    careerJourney: "I took a 3-year career break to care for my newborn twins. Returning was challenging, but focusing on core engineering principles and finding the right returnship program made it possible. I am here to help you navigate resume gaps and rebuild confidence.",
+    targetCareer: "Frontend Developer",
+    location: "Chicago, IL",
+    workType: "Remote"
+  },
+  {
+    id: "mentor-2",
+    name: "Dr. Sri Devi Nair",
+    jobTitle: "Lead Data Scientist",
+    industry: "Data Science & Analytics",
+    experience: "10 years",
+    skills: ["Python", "SQL", "Machine Learning", "Tableau", "Interview Prep"],
+    rating: 4.8,
+    reviewsCount: 22,
+    availability: ["Tuesdays 3:00 PM - 5:00 PM EST", "Fridays 1:00 PM - 3:00 PM EST"],
+    careerJourney: "After relocating to a new country, I faced a 2-year employment gap. I refreshed my math skills and practiced coding challenges. Re-entering data science is fully achievable, and I will show you how to demonstrate practical knowledge.",
+    targetCareer: "Data Analyst",
+    location: "New York, NY",
+    workType: "Hybrid"
+  },
+  {
+    id: "mentor-3",
+    name: "Monika Sharma",
+    jobTitle: "VP of Product",
+    industry: "Product Management",
+    experience: "12 years",
+    skills: ["Product Strategy", "Agile", "User Research", "Resume Review", "Negotiation"],
+    rating: 5.0,
+    reviewsCount: 41,
+    availability: ["Wednesdays 11:00 AM - 1:00 PM EST", "Fridays 9:00 AM - 11:00 AM EST"],
+    careerJourney: "I took 4 years off to manage family medical emergencies. Transferring caregiving organization skills to product leadership is a superpower. Let's work on framing your gap as an asset.",
+    targetCareer: "Project Manager",
+    location: "Remote",
+    workType: "Remote"
+  },
+  {
+    id: "mentor-4",
+    name: "Priya Krishnan",
+    jobTitle: "Principal UX Designer",
+    industry: "Design",
+    experience: "8 years",
+    skills: ["Figma", "UI/UX", "Wireframing", "Portfolio Critique", "Design Systems"],
+    rating: 4.7,
+    reviewsCount: 19,
+    availability: ["Mondays 9:00 AM - 11:00 AM EST", "Wednesdays 2:00 PM - 4:00 PM EST"],
+    careerJourney: "Took an 18-month break due to personal burnout. Re-entering design required rebuilding my portfolio with fresh, real-world case studies. I can guide you through visual storytelling.",
+    targetCareer: "UI/UX Designer",
+    location: "San Francisco, CA",
+    workType: "Hybrid"
+  }
+];
